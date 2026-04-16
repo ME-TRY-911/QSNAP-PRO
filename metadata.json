@@ -1,0 +1,8 @@
+{
+  "name": "QSnap Pro",
+  "description": "A mobile-friendly question capture and formatting tool for teachers. Extract text from screenshots, format questions, and export to PDF/Word.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
